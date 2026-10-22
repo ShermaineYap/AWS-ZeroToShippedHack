@@ -1,0 +1,5 @@
+.packaged.yaml
+__pycache__/
+.DS_Store
+.aws/
+*.csv
